@@ -18,7 +18,7 @@ extern "C" {
 #endif
 
 #define PROGNAME        "yasuna"
-#define VERSION         14
+#define VERSION         15
 #define PATCHLEVEL      7
 #define SUBLEVEL        0
 #define EXTRAVERSION    ""
